@@ -1,0 +1,2 @@
+Esté projeto é sobre um App de exercicios com funções de videos e calculo do IMC.
+O que contem no projeto é template do App feito em html, css e booststrap.
